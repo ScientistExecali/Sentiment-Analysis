@@ -1,12 +1,12 @@
 # Sentiment-Analysis
 Sentiment Analysis on Twitter Data to Compare Different Machine Learning Models
 
-The code is present in Sentiment Analysis - Comparison of Models.py
+The code is present in __Sentiment Analysis - Comparison of Models.py__
 
 The jupyter notebook code can be viewed in 
 
-PDF Format -> Sentiment Analysis - Comparison of Models.pdf
+* __PDF Format__ -> Sentiment Analysis - Comparison of Models.pdf
 
-Jupyter Notebook Format -> Sentiment Analysis - Comparison of Models.ipynb
+* __Jupyter Notebook Format__ -> Sentiment Analysis - Comparison of Models.ipynb
 
-However, due to size restriction, the entire Jupyter Notebook may not be available for viewing. Please refer to the .py file.
+__Note:__ Due to size restriction, the entire Jupyter Notebook may not be available for viewing. Please refer to the .py file.
